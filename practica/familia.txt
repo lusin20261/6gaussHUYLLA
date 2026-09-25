@@ -1,0 +1,6 @@
+1 papa 
+2 mama 
+3 hermana 
+4 tia 
+5 tio
+ 
