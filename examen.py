@@ -1,0 +1,11 @@
+a=input("Cual es tu nonbre: ")
+b=input("Cuantos años tienes: ")
+c=input("Cual es tu comida favorita: ")
+d=input("Cual es tu COLOR favorito:  ")
+e=input ("Cual es tu animal favorito: ")
+
+print("HOLA",a )
+print("Tines",b,"anos,que bueno" )
+print("A mi tanbien me gusta,"c,"es muy rico" )
+print("mi color favorito tanbien es el",d )
+print("tu animal favorito es",e )
